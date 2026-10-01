@@ -34,7 +34,7 @@ Las tablas utilizadas son:
 
 ## Modelo y acceso
 
-El modelo principal es `retail` y utiliza la conexión `afluencia_movilidad`. El Explore `ventas` relaciona las ventas con productos, clientes y sucursales.
+El modelo principal es `retail` y utiliza la conexión `conexion_secreta`. El Explore `ventas` relaciona las ventas con productos, clientes y sucursales.
 
 El dashboard se encuentra en `dashboards/ventas_rentabilidad.dashboard.lookml`. Las vistas están en la carpeta `views` y el modelo se define en `retail.model.lkml`.
 
